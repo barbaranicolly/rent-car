@@ -9,7 +9,7 @@ Sistema de aluguer de carros desenvolvido em Java.
 - Geração da fatura com valor base, imposto e total
 
 ## Tecnologias
-- Java (indica a tua versão)
+- Java
 - IntelliJ IDEA
 
 ## Estrutura
